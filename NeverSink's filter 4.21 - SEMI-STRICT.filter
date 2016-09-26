@@ -2778,12 +2778,14 @@ Show #$chancing, top %D2
 # Desert Brigandine - Can be chanced into Lightning Coil	
 # Assassin's Garb - Corspri's Will
 
-### REGULAR CHANCE BASES ###	
-#Show #$chancing %D1
-#	BaseType "Occultist's Vestment" "Assassin's Garb" "Prophecy Wand" "Deicide Mask"
-#	Rarity Normal
-#	SetTextColor 255 255 255 255
-#	SetBorderColor 0 150 0 150
+## REGULAR CHANCE BASES ###	
+Show #$chancing %D1
+	BaseType "Occultist's Vestment" "Assassin's Garb" "Prophecy Wand" "Deicide Mask"
+	Rarity Normal
+	SetTextColor 255 255 255 255
+	SetBorderColor 0 150 0 150
+	SetFontSize 38
+	PlayAlertSound 7 150
 
 ### LEGACY UNIQUE CHANCE BASES ###
 ### THESE UNIQUES CAN ONLY BE CHANCED IN THE CORRECT ZANA-LEAGUE MODS ###
