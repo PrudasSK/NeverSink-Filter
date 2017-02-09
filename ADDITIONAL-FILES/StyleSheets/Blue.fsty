@@ -1,0 +1,9 @@
+
+START: SETBACKGROUNDCOLOR
+SetBackgroundColor 0 0 0 160	    // # BACKGROUND:	 Rares - Basetypes - Bad.
+SetBackgroundColor 0 40 70 255      // # BACKGROUND:	 Rares - Basetype - Great
+SetBackgroundColor 0 40 70 230      // # BACKGROUND:	 Rares - Basetype - Good
+
+START: SETBORDERCOLOR
+START: SETTEXTCOLOR
+START: PLAYALERTSOUND

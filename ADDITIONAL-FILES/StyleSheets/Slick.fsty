@@ -1,0 +1,22 @@
+
+START: SETBACKGROUNDCOLOR
+SetBackgroundColor 0 0 0 190        // # BACKGROUND:	 Rares - Basetype - OK
+SetBackgroundColor 0 0 0 185        // # BACKGROUND:	 T1-T5 maps, optional leveling
+SetBackgroundColor 0 0 0 160	    // # BACKGROUND:	 Rares - Basetypes - Bad.
+SetBackgroundColor 190 158 130 255  // # BACKGROUND:	 T2 Currency
+SetBackgroundColor 170 158 130 240  // # BACKGROUND:	 T3 Currency
+SetBackgroundColor 0 10 0 255       // # BACKGROUND:	 Rares - Basetype - Great
+SetBackgroundColor 0 10 0 220       // # BACKGROUND:	 Rares - Basetype - Good
+SetBackgroundColor 170 230 230 255  // # BACKGROUND:	 T2 Divination
+SetBackgroundColor 170 230 230 220  // # BACKGROUND:	 T3 Divination
+SetBackgroundColor 15 180 200 255   // # BACKGROUND:	 Essence LVL5
+SetBackgroundColor 170 230 230 200  // # BACKGROUND:	 T4 Divination
+SetBackgroundColor 15 180 200 220   // # BACKGROUND:	 Essence LVL4
+SetBackgroundColor 15 180 200 200   // # BACKGROUND:	 Essence LVL3
+SetBackgroundColor 15 180 200 180   // # BACKGROUND:	 Essence LVL2
+SetBackgroundColor 15 180 200 160   // # BACKGROUND:	 Essence LVL1
+SetBackgroundColor 170 230 230 180  // # BACKGROUND:	 T5 Divination
+
+START: SETBORDERCOLOR
+START: SETTEXTCOLOR
+START: PLAYALERTSOUND
